@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{373CAD52-D091-4932-8650-C72B1575245E}|http">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlackJack.Server/Program.cs">
+    <Files>
+      <File FileName="BlackJack.Server/BlackJackHub.cs" Line="12" Column="75" />
+      <File FileName="BlackJack.Server/Program.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlackJack" expanded="True">
+            <Node name="BlackJack.Client" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="BlackJack.Common" expanded="True" />
+            <Node name="BlackJack.Server" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BlackJack.Client PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BlackJack.Server PreferredExecutionTarget="/Applications/Firefox.app" />
+</Properties>
